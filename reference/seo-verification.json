@@ -1,0 +1,96 @@
+{
+  "base": "https://kungsplan-modern.vercel.app",
+  "pages": [
+    {
+      "path": "/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/alkohol-drogpolicy/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/be-b96-bilslap/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/halkbanan/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/intensivkurs-korkort/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/introduktionsutbildning/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/kontakta-oss/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/korkortsgaranti/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/mopedkorkort/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/om-oss/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/prislista/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/riskettan/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/startsida/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/studenterbjudande-mecenat/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    },
+    {
+      "path": "/teorihjalp/",
+      "rawHtml": "PASS",
+      "browser": "PASS",
+      "navigation": "PASS"
+    }
+  ],
+  "consoleErrors": []
+}

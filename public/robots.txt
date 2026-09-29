@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Demo: indexing is disabled through X-Robots-Tag and page-level robots metadata.
